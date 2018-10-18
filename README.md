@@ -1,4 +1,4 @@
-Basic client side request 
+Basic client side request-
 I have created a new w08 repo in the GitHub.
 Then in my 44563 folder, I have cloned  w08 repository.
 Created a simple client application (README.md, index.html, and a JavaScript file.
